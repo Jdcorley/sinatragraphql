@@ -1,5 +1,5 @@
 require 'sinatra'
-require 'sinatra-contrib'
+require 'sinatra/json'
 
 class ConferenceApp < Sinatra::Base
 
